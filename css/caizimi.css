@@ -1,0 +1,249 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#page1{
+	position: relative;
+	height: 100vh;
+	background-image: url('../img/beijing.jpg');
+	background-size: 100% 100%;
+	overflow: hidden;
+}
+.qing{
+	position: absolute;
+	width: 40%;
+	top: 10%;
+	left: 30%;
+}
+#anniu{
+	position: absolute;
+	width: 40%;
+	top: 68%;
+	left: 30%;
+}
+#next{
+	position: absolute;
+	width: 40%;
+	top: 78%;
+	left: 30%;
+}
+#select{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	font-size: 20px;
+}
+#kuang{
+	position: absolute;
+	width: 60%;top: 38%;
+	left: 25%;
+}
+
+#page2{
+	position: relative;
+	height: 100vh;
+	background-size: 100% 100%;
+	background-image: url('../img/beijing.jpg');
+	overflow: hidden;
+	display: none;
+}
+#zhanguo{
+	position: absolute;
+	width: 40%;
+	top: 10%;
+	left: 30%;
+}
+#anniu2{
+	position: absolute;
+	width: 40%;
+	top: 68%;
+	left: 30%;
+}
+#next2{
+	position: absolute;
+	width: 40%;
+	top: 78%;
+	left: 30%;
+}
+#select2{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	font-size: 20px;
+}
+#page3{
+	position: relative;
+	height: 100vh;
+	background-size: 100% 100%;
+	background-image: url('../img/beijing.jpg');
+	overflow: hidden;
+	display: none;
+}
+#xiangdeng{
+	position: absolute;
+	width: 40%;
+	top: 10%;
+	left: 30%;
+}
+#anniu3{
+	position: absolute;
+	width: 40%;
+	top: 68%;
+	left: 30%;
+}
+#next3{
+	position: absolute;
+	width: 40%;
+	top: 78%;
+	left: 30%;
+}
+#select3{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	font-size: 20px;
+}
+#page4{
+	position: relative;
+	height: 100vh;
+	background-size: 100% 100%;
+	background-image: url('../img/beijing.jpg');
+	overflow: hidden;
+	display: none;
+}
+#qingyou{
+	position: absolute;
+	width: 27%;
+	top: 5%;
+	left: 36%;
+}
+#anniu4{
+	position: absolute;
+	width: 40%;
+	top: 68%;
+	left: 30%;
+}
+#next4{
+	position: absolute;
+	width: 40%;
+	top: 78%;
+	left: 30%;
+}
+#select4{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+	font-size: 20px;
+}
+#page5{
+	position: relative;
+	height: 100vh;
+	background-size: 100% 100%;
+	background-image: url('../img/beijing.jpg');
+	overflow: hidden;
+	display: none;
+}
+#xianger{
+	position: absolute;
+	width: 40%;
+	top: 6%;
+	left: 30%;
+}
+#anniu5{
+	position: absolute;
+	width: 40%;
+	top: 68%;
+	left: 30%;
+}
+#next5{
+	position: absolute;
+	width: 40%;
+	top: 78%;
+	left: 30%;
+}
+#select5{
+	position: absolute;
+	top: 42%;
+	left: 30%;
+	font-size: 18px;
+}
+
+#zi{
+	position: absolute;
+	font-size: 20px;
+	top: 81.5%;
+	left: 36%;
+}
+#cuowu{
+	position: absolute;
+	width: 40%;
+	top: 35%;
+	left: 33%;
+	display: none;
+}
+#cuowu1{
+	position: absolute;
+	width: 40%;
+	top: 35%;
+	left: 33%;
+	display: none;
+}
+#cuowu2{
+	position: absolute;
+	width: 40%;
+	top: 35%;
+	left: 33%;
+	display: none;
+}
+#cuowu3{
+	position: absolute;
+	width: 40%;
+	top: 35%;
+	left: 33%;
+	display: none;
+}
+#cuowu4{
+	position: absolute;
+	width: 40%;
+	top: 35%;
+	left: 33%;
+	display: none;
+}
+#page6{
+	position: relative;
+	background-image: url('../img/beijing.jpg');
+	background-size: 100% 100%;
+	overflow: hidden;
+	
+	height: 100vh;
+	display: none;
+}
+#kuang7{
+	position: absolute;
+	width: 60%;
+	height: 27%;
+	top: 37%;
+	left: 24%;
+}
+#zizi{
+	position: absolute;
+	font-size: 30px;
+	top: 41%;
+	left: 43%;
+}
+#zizizi{
+	position: absolute;
+	font-size: 30px;
+	top: 47%;
+	left: 40%;
+}
+#zizizizi{
+	position: absolute;
+	font-size: 30px;
+	top: 53%;
+	left: 31%;
+}
+#fanhui3{
+	position: absolute;
+	width: 40%;top: 80%;left: 30%;
+}
